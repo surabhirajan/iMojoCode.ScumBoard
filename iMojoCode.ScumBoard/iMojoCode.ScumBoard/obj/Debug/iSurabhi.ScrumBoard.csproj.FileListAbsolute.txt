@@ -1,0 +1,5 @@
+E:\compito\projetto\iSurabhi.ScumBoard\iSurabhi.ScumBoard\bin\iSurabhi.ScrumBoard.dll
+E:\compito\projetto\iSurabhi.ScumBoard\iSurabhi.ScumBoard\bin\iSurabhi.ScrumBoard.pdb
+E:\compito\projetto\iSurabhi.ScumBoard\iSurabhi.ScumBoard\obj\Debug\iSurabhi.ScrumBoard.dll
+E:\compito\projetto\iSurabhi.ScumBoard\iSurabhi.ScumBoard\obj\Debug\iSurabhi.ScrumBoard.pdb
+E:\compito\projetto\iSurabhi.ScumBoard\iSurabhi.ScumBoard\obj\Debug\iSurabhi.ScrumBoard.csprojResolveAssemblyReference.cache

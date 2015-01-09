@@ -1,0 +1,5 @@
+E:\compito\projetto\iMojoCode\iMojoCode.ScumBoard\iMojoCode.ScumBoard\bin\iMojoCode.ScrumBoard.dll
+E:\compito\projetto\iMojoCode\iMojoCode.ScumBoard\iMojoCode.ScumBoard\bin\iMojoCode.ScrumBoard.pdb
+E:\compito\projetto\iMojoCode\iMojoCode.ScumBoard\iMojoCode.ScumBoard\obj\Debug\iMojoCode.ScrumBoard.csprojResolveAssemblyReference.cache
+E:\compito\projetto\iMojoCode\iMojoCode.ScumBoard\iMojoCode.ScumBoard\obj\Debug\iMojoCode.ScrumBoard.dll
+E:\compito\projetto\iMojoCode\iMojoCode.ScumBoard\iMojoCode.ScumBoard\obj\Debug\iMojoCode.ScrumBoard.pdb
